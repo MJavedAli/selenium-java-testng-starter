@@ -1,4 +1,4 @@
-# Xylem - Test automation framework using Selenium with Java, TestNG and Maven-
+# Selenium-Java-TestNG-Maven-starter
 
 
 Dependency
